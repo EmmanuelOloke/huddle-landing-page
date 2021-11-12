@@ -14,7 +14,7 @@ This is the eighth challenge I'm attempting. My completion time is getting short
 
 ## Links
 
-- Solution: [https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub/single-price-grid-component-challenge-with-flexbox-LetmH_Lmx]
+- Solution: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-D7_hRj44j]
 - Live Site URL: [https://emmanueloloke.github.io/huddle-landing-page/]
 
 ## My Process
