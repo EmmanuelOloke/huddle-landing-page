@@ -107,6 +107,19 @@ body {
     ul li:hover a {
         color: hsl(300, 69%, 71%);
     }
+    .attribution {
+        color: #FFF;
+        bottom: 0;
+        position: fixed;
+        text-align: center;
+        width: 100%;
+    }
+    .attribution a {
+        color: #FFF;
+    }
+    .attribution a:hover {
+        color: hsl(300, 69%, 71%);
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -167,6 +180,7 @@ body {
         padding: 1em 6em;
         display: block;
         margin: 0 auto;
+        margin-bottom: 2em;
     }
     ul {
         text-align: center;
@@ -202,6 +216,19 @@ body {
         border: 1px solid hsl(300, 69%, 71%);
     }
     ul li:hover a {
+        color: hsl(300, 69%, 71%);
+    }
+    .attribution {
+        margin: 0 auto;
+        color: #FFF;
+        width: 100vw;
+        background-color: hsl(257, 40%, 49%);
+        padding-bottom: 1em;
+    }
+    .attribution a {
+        color: #FFF;
+    }
+    .attribution a:hover {
         color: hsl(300, 69%, 71%);
     }
 }
