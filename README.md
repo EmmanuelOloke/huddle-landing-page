@@ -1,4 +1,4 @@
-# Front End Mentor Single Price Grid Component Challenge Solution
+# Front End Mentor Huddle Landing Page with a Single Introductory Section Challenge.
 
 This is a solution to the [Huddle Landing Page with a Single Introductory Section Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
